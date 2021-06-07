@@ -1,0 +1,202 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
+* {
+    margin: 0rem;
+    padding: 0rem;
+    margin-left: 0rem;
+    font-family:'Open Sans'; 
+    text-decoration-line: none;
+    box-sizing: border-box;
+    min-height: fixed;
+    background-repeat: no-repeat;
+    letter-spacing: 0rem;
+    font-weight: 500
+}
+html{
+    background: linear-gradient(to bottom,#FC575E, #F7B42C);
+    font-size:100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+.right-cont ul li .op{
+    font-weight: 600;
+    cursor: default;
+    color: black;
+}
+
+.head-cont{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 5rem;
+        max-width: 80rem;
+        margin: 0 auto;
+        
+    
+}
+.right-cont{
+    color: #FFFFFF;
+    font-size: 0.9rem;
+    margin-right: 33.5rem;
+   
+}
+.left-cont a{
+    list-style: none;
+        text-decoration: none;
+    color: #FFFFFF
+}
+.right-cont ul{
+        list-style: none;
+        text-decoration: none;
+        display: flex;
+    
+    
+}
+.right-cont ul li a{
+     color: #FFFFFF;
+     letter-spacing: 0.1rem;
+   
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+
+.right-cont a:hover{
+    color: black;
+    font-weight: 600;
+}
+.paybtn :hover{
+        color: #FFFFFF;
+        font-weight: 600;
+}
+
+.bodycontainer{
+    display: flex;
+    align-content: center;
+}
+.right-cont li{
+    align-items: center;
+    margin-right: 1rem;
+    list-style: none;
+    text-decoration: none;
+    padding-right: .5rem;
+    
+}
+.left-cont{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 2rem;
+}
+.lcont ul li h1{
+    font-weight: 600;
+}
+.lcont1 ul li h1{
+    font-weight: 600;
+}
+
+.dntbadge img{
+    height: 12rem;
+    position: absolute;
+    margin: 0 2rem 0rem 64rem;
+    transform: rotate(20deg);
+       
+}
+.money .mimg{
+     height: 12rem;
+    position: absolute;
+    margin: 0 2rem 0rem 55rem;
+   
+}
+.vl {
+  border-left: 3px solid black;
+  height: 16.6rem;;
+  position: absolute;
+  left: 17rem;
+  top: 13.5rem;
+}
+
+.lcont1{
+    
+    margin: 9rem 0rem auto 2rem
+}
+.lcont{
+    
+    margin: 9rem 0rem auto 18rem
+}
+.lcont li{
+    font-size: 1.3rem;
+}
+.lcont1 li{
+    font-size: 1.3rem;
+}
+
+.bodycontainer .lcont li{
+    padding-top: 1rem;
+}
+.bodycontainer .lcont1 li{
+    padding-top: 1rem;
+}
+.button{
+    color: black;
+    background: transparent; outline: none;
+    position: relative;
+      
+    border: 2px solid #111;
+    
+      padding: 15px 50px;
+      overflow: hidden;
+      padding: 9px 27px;
+      font-family:'Open Sans';
+      font-weight: bold;
+      box-shadow: 8px 8px 10px black;
+}
+.ppl{
+    height: 17rem;
+    width: auto;
+    margin: 8.4rem 0rem 0rem 3rem;
+    box-shadow: 10px 10px 15px black;
+}
+
+.paybtn{
+    padding-top: 3rem;
+    margin-left: 18rem;
+    
+}
+.paybtn1 {
+    padding-top: 2rem;
+    margin-left: 18rem;
+    
+}
+.circle{
+    height: 0.5rem;
+    width: 0.5rem;
+    background-color: #FFFFFF;
+    border-radius: 2rem;
+    display: inline-block;
+
+}
+
+.foot{
+    align-content: center;
+    margin: 5rem 5rem 0rem 35rem;
+    
+}
+.c {
+        display: flex;
+}
+.c li a{
+        padding-right: 3rem;
+        color: ghostwhite;
+        list-style: none;
+        text-decoration: none;
+        display: flex;
+        font-weight: 550;
+        letter-spacing: .1rem;
+        
+}
+.c li a:hover{
+    color: crimson;
+    cursor: grab;
+}
